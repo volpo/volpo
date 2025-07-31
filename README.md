@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-During my time at university I learned different programming languages ​​and that led me to become more interested in work focused on data and its analysis. In 2023 I started my career in data science and am currently looking to land my first related job. I have developed and participated in data projects and I am currently continuing to improve myself. I am currently studying a technical degree in software development.
+Professional focused on digital advertising revenue optimization, specializing in Ad Exchange, Header Bidding (Prebid.js, Amazon Apstag), and Unified Pricing Rules (UPR). Experience in automation with Python and Google Apps Script, data visualization with Looker Studio, and leading programmatic monetization strategies. Strong analytical skills, results-oriented, and problem-solving skills.
 
 - 🌱 I’m currently learning Power Bi
 - 💬 Ask me about alejandrovolponi@gmail.com
